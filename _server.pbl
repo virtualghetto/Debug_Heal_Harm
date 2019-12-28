@@ -1,0 +1,15 @@
+author="vghetto"
+description="A modification to heal or harm units in debug mode.
+
+https://github.com/virtualghetto/Debug_Heal_Harm"
+email=
+icon="icons/amla-default.png~SCALE(72,72)"
+passphrase=
+tags="Debug,Heal,Harm"
+title="Debug Heal/Harm units"
+translate=true
+type="mod_mp"
+version="1.0.0"
+[feedback]
+	topic_id=650195
+[/feedback]
